@@ -49,7 +49,9 @@ Menyimpan kembali perubahan ke dalam file kontak.json.
 #### Output:
 Menampilkan pesan konfirmasi jika kontak berhasil dihapus.
 Menampilkan pesan kesalahan jika kontak dengan nama yang diberikan tidak ditemukan.
+
 Contoh Penggunaan:
+
 hapus_kontak("Abil 1")
 
 Struktur Data JSON
