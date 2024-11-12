@@ -41,7 +41,7 @@ def hapus_kontak(nama):
             print(f"Kontak dengan nama {nama} tidak ditemukan.")
 
     except (FileNotFoundError, json.JSONDecodeError) as e:
-        print(f"Error saat membaca file: {e}")
+        print("File tidak ditemukan atau JSON Decode Error !")
 
 
 while True:
