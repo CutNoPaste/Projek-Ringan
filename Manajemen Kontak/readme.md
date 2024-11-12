@@ -37,7 +37,7 @@ Fungsi ini digunakan untuk menambahkan kontak baru ke dalam file `kontak.json`. 
 tambah_kontak("Abil 1", "08123123123", "abil@example.com")
 ```
 
-#### 2. `hapus_kontak(nama)`
+### 2. `hapus_kontak(nama)`
 Fungsi ini digunakan untuk menghapus kontak berdasarkan nama dari file kontak.json.
 
 Input:
