@@ -34,10 +34,10 @@ Fungsi ini digunakan untuk menambahkan kontak baru ke dalam file `kontak.json`. 
 
 #### Contoh Penggunaan:
 ```python
-tambah_kontak("John Doe", "081234567890", "johndoe@example.com")
+tambah_kontak("Abil 1", "08123123123", "abil@example.com")
 ```
 
-#### 2. hapus_kontak(nama)
+#### 2. `hapus_kontak(nama)`
 Fungsi ini digunakan untuk menghapus kontak berdasarkan nama dari file kontak.json.
 
 Input:
@@ -50,21 +50,21 @@ Menyimpan kembali perubahan ke dalam file kontak.json.
 Menampilkan pesan konfirmasi jika kontak berhasil dihapus.
 Menampilkan pesan kesalahan jika kontak dengan nama yang diberikan tidak ditemukan.
 Contoh Penggunaan:
-hapus_kontak("John Doe")
+hapus_kontak("Abil 1")
 
 Struktur Data JSON
 Data kontak disimpan dalam file JSON dengan format berikut:
 ```
 [
     {
-        "Nama": "John Doe",
-        "Nomor": "081234567890",
-        "Email": "johndoe@example.com"
+        "Nama": "Abil 1",
+        "Nomor": "08123123123",
+        "Email": "abil1@example.com"
     },
     {
-        "Nama": "Jane Doe",
-        "Nomor": "089876543210",
-        "Email": "janedoe@example.com"
+        "Nama": "Abil 2,
+        "Nomor": "08321321321",
+        "Email": "abil2@example.com"
     }
 ]
 ```
@@ -84,10 +84,10 @@ Masukkan pilihan :
 3. Hapus Kontak
 4. Keluar
 Masukkan pilihan : 2
-Masukkan nama : John Doe
-Masukkan nomor : 081234567890
-Masukkan email : johndoe@example.com
-Kontak John Doe berhasil ditambahkan!
+Masukkan nama : Abil
+Masukkan nomor : 08123123123
+Masukkan email : abil@example.com
+Kontak Abil 2 berhasil ditambahkan!
 
 --------- MANAJEMEN KONTAK ---------
 Masukkan pilihan : 
@@ -98,15 +98,15 @@ Masukkan pilihan :
 Masukkan pilihan : 1
 --------------------------
 Kontak No. 1
-Nama : John Doe
-Nomor : 081234567890
-Email : johndoe@example.com
+Nama : Abil 1
+Nomor : 08321321321
+Email : abil@example.com
 
 --------------------------
 Kontak No. 2
-Nama : Jane Doe
-Nomor : 089876543210
-Email : janedoe@example.com
+Nama : Abil 2
+Nomor : 08123123123
+Email : abil2@example.com
 ```
 Kesimpulan
 Program ini adalah aplikasi manajemen kontak sederhana yang menyimpan data dalam format JSON. Program ini memungkinkan pengguna untuk menambah, melihat, dan menghapus kontak. Dilengkapi dengan validasi input dan penanganan error untuk meningkatkan pengalaman pengguna.
