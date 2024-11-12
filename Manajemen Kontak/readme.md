@@ -52,7 +52,7 @@ Menampilkan pesan kesalahan jika kontak dengan nama yang diberikan tidak ditemuk
 
 Contoh Penggunaan:
 
-hapus_kontak("Abil 1")
+`hapus_kontak("Abil 1")`
 
 Struktur Data JSON
 Data kontak disimpan dalam file JSON dengan format berikut:
