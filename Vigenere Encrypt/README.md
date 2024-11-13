@@ -41,4 +41,23 @@ Program ini juga mendukung pengulangan. Setelah satu operasi selesai, pengguna d
 
    ```bash
    python vigenere_cipher.py
+3. **Input**:
+   - Ketika diminta, pilih ENC untuk enkripsi atau DEC untuk dekripsi.
+   - Masukkan pesan yang ingin diproses.
+   - Masukkan kata kunci yang akan digunakan dalam proses enkripsi atau dekripsi.
+4. **Contoh Penggunaan**:
 
+   ```bash
+       ==========<[ENCRYPT dan DECRYPT]>==================
+    Pilih yang mau kamu lakukan (ENC/DEC): ENC
+    Masukkan kata yang ini di Encrypt : Hello
+    Masukkan kata yang ingin dijadikan kunci encrypt : key
+    
+    ----------- hasil Enkripsi -----------
+    Kalimat awal : hello
+    Kalimat hasil Encrypt : riijv
+    Dengan kata kunci : key
+    ---------------------------------------
+    Apakah ingin mengulang lagi ? (Y/T): Y
+  - Untuk Dekripsi, pilih DEC dan masukkan pesan yang terenkripsi serta kata kunci yang digunakan saat enkripsi.
+5. 
