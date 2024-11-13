@@ -60,4 +60,24 @@ Program ini juga mendukung pengulangan. Setelah satu operasi selesai, pengguna d
     ---------------------------------------
     Apakah ingin mengulang lagi ? (Y/T): Y
   - Untuk Dekripsi, pilih DEC dan masukkan pesan yang terenkripsi serta kata kunci yang digunakan saat enkripsi.
-5. 
+
+## Penanganan Karakter Non-Alfabet
+
+Karakter selain huruf (seperti spasi, tanda baca, dll) tidak akan dipengaruhi oleh proses enkripsi atau dekripsi. Program ini hanya memproses huruf alfabet (a-z, A-Z) dalam pesan.
+
+## Struktur Program
+
+```
+def vigenere(pesan, kunci, arahan=1):
+    # Enkripsi atau deskripsi berdasarkan algoritma Vigenère
+    # ...
+
+def proses():
+    # Menangani input dan hasil enkripsi/deskripsi
+    # ...
+
+# Pengulangan program
+while True:
+    # Meminta pengguna memilih enkripsi atau deskripsi
+    # ...
+```
