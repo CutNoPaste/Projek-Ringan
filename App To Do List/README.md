@@ -27,7 +27,8 @@ pip install colorama
 
 1. Jalankan aplikasi dengan menggunakan Python:
    ```bash
-   python todolist.py
+   python App_to_do_list_warna.py #Untuk yang warna
+   python App_to_do_list_raw.py #Untuk yang tanpa warna
    ```
 2. Pilih opsi yang tersedia:
    ```
