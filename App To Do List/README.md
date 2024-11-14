@@ -30,14 +30,14 @@ pip install colorama
    python todolist.py
    ```
 2. Pilih opsi yang tersedia:
-```
-  1: Lihat daftar tugas
-  2: Tambah tugas
-  3: Tandai tugas selesai
-  4: Hapus tugas
-  5: Export ke tugas.txt
-  6: Keluar
-```
+   ```
+     1: Lihat daftar tugas
+     2: Tambah tugas
+     3: Tandai tugas selesai
+     4: Hapus tugas
+     5: Export ke tugas.txt
+     6: Keluar
+   ```
 3. Aplikasi akan menampilkan animasi warna-warni pada judul aplikasi dan memberikan pilihan menu dengan emotikon dan warna yang menarik.
 
 ## Contoh Tampilan
