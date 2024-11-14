@@ -13,8 +13,16 @@ Agar mempermudah download repo yang di inginkan melalui terimnal / CMD , pastika
 
 Lalu kamu bisa langsung Clone Projek ini dengan cara :
 
+### Contoh Windows
+
 ```bash
-git clone https://github.com/CutNoPaste/repo-name.git
+git clone https://github.com/CutNoPaste/repo-name.git D:\Projects\my_project
+```
+
+### Contoh Linux
+
+```bash
+git clone https://github.com/CutNoPaste/repo-name.git /home/user/Projects/my_project
 ```
 
 # JIKA INGIN LANGSUNG MENDOWNLOAD DALAM BENTUK ZIP :
