@@ -55,7 +55,7 @@ Pilih apa yang mau kamu lakukan :
 6. Keluar 🚪
 ```
 
-## Menambahkan Tugas :
+### Menambahkan Tugas :
 
 ```
 Masukkan nama kegiatan : Mengerjakan project
@@ -63,7 +63,7 @@ Masukkan tanggal deadline : 23-10-2024
 Tugas Mengerjakan project Tanggal 23-10-2024 sudah ditambahkan !
 ```
 
-## Daftar Tugas :
+### Daftar Tugas :
 
 ```
 Tugas No. 1
@@ -72,3 +72,9 @@ Deadline : 23-10-2024
 Apakah sudah : ❌
 Pekerjaan kamu tersisa '3' hari
 ```
+
+## Struktur File :
+ - `tdlnow.json`: File db (database) tugas.
+ - `tugas.txt`: File hasil export.
+
+# PROYEK INI DIBAWAH LISENSI GPL V.3.0
