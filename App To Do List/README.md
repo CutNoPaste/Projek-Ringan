@@ -13,7 +13,7 @@ Aplikasi To-Do List ini memungkinkan kamu untuk mengelola daftar tugas yang perl
 
 ## Prasyarat
 
-Pastikan kamu sudah menginstall Python dan pustaka `colorama`:
+Pastikan kamu sudah menginstall library `colorama` untuk menggunakan jenis file `App_to_do_list_warna.py` :
 
 1. **Python 3.x**
 2. **colorama**: Pustaka untuk memberi warna pada terminal.
