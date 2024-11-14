@@ -39,7 +39,7 @@ pip install colorama
      5: Export ke tugas.txt
      6: Keluar
    ```
-3. Aplikasi akan menampilkan animasi warna-warni pada judul aplikasi dan memberikan pilihan menu dengan emotikon dan warna yang menarik.
+3. Note : Aplikasi akan menampilkan animasi warna-warni saat mulai jika menggunakan kode yang ada keterangan 'warna.py' jika pakai 'raw.py' tidak ada warna dan animasi apa-apa.
 
 ## Contoh Tampilan
 
