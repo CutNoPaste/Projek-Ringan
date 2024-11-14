@@ -25,7 +25,7 @@ git clone https://github.com/CutNoPaste/repo-name.git D:\Projects\my_project
 git clone https://github.com/CutNoPaste/repo-name.git /home/user/Projects/my_project
 ```
 
-# JIKA INGIN LANGSUNG MENDOWNLOAD DALAM BENTUK ZIP :
+# JIKA INGIN LANGSUNG DOWNLOAD DALAM BENTUK ZIP :
 
 Di Windows atau Linux:
 
