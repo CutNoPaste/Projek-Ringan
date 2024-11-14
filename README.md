@@ -2,7 +2,7 @@
 Projek ringan penuh dengan bahasa Python
 
 ### PROJEK INI DIBAWAH LISENSI GNU General Public License v3.0 ###
-Untuk lisensi bisa baca file ``License``
+Untuk lisensi bisa baca file [license](https://github.com/CutNoPaste/Projek-Ringan?tab=GPL-3.0-1-ov-file)
 
 # CATATAN PENTING HARAP BACA !
 
