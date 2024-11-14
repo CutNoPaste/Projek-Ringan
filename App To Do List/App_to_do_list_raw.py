@@ -160,12 +160,12 @@ bersihkanlayar()
 while True:
     print("------------- APLIKASI TO DO LIST -------------")
     print("Pilih apa yang mau kamu lakukan :\n"
-          "1. Lihat daftar tugas\n"
-          "2. Tambah tugas\n"
-          "3. Tandai tugas selesai\n"
-          "4. Hapus tugas\n"
-          "5. Export ke 'file.txt'\n"
-          "6. Keluar")
+          "1. Lihat daftar tugas📋\n"
+          "2. Tambah tugas➕\n"
+          "3. Tandai tugas selesai✔️\n"
+          "4. Hapus tugas❌\n"
+          "5. Export ke 'file.txt'💾\n"
+          "6. Keluar🚪")
     pilihan1 = input("Pilih angka '1-5' : ")
     if pilihan1 in ["1","2","3","4","5","6"]:
         if pilihan1 == "1":
