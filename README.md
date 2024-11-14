@@ -38,12 +38,12 @@ Di Windows atau Linux:
 
 dibuat Oleh :
 
-Abil Nur Fadillah (aka. CnP)
+## Abil Nur Fadillah (aka. CnP)
 
 Kalau ada rekomendasi projek apa yang ingin dibuat bisa langsung dm ke :
 
-Instagram : [Abil Nur Fadillah](https://www.instagram.com/abilnrfdllh_/)
+### Instagram : [Abil Nur Fadillah](https://www.instagram.com/abilnrfdllh_/)
 
-Instagram : [CutNoPaste](https://www.instagram.com/cutnopaste/)
+### Instagram : [CutNoPaste](https://www.instagram.com/cutnopaste/)
 
-Discord : @mysmage
+### Discord : @mysmage
